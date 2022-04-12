@@ -2,9 +2,7 @@
 
 This project illustrates a reliable way to implement drag and drop from the plugin window to the Figma canvas.
 
-### Update
-
-Figma now has an official API to support drag and drop in plugins!
+### Update: Figma now has an official API to support drag and drop in plugins
 
 Please check the API docs on [drop event](https://www.figma.com/plugin-docs/api/properties/figma-on/#drop) and [triggering drop events from the UI](https://www.figma.com/plugin-docs/creating-ui/#triggering-drop-events-from-the-ui).
 
